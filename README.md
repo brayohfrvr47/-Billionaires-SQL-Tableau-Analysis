@@ -132,7 +132,7 @@ are under 9% women. Gambling & Casinos tops the list at 40%, but that is only 2 
 
 All dashboards are on my [Tableau Public profile](https://public.tableau.com/app/profile/brian.lugunga).
 
-## Limitations
+  ## Limitations
 - The industry with the highest average wealth is not necessarily the one with the
   highest total wealth or the most billionaires, so I report all three.
 - About 80 entries are family fortunes, so counts refer to entries, not individuals.
