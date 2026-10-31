@@ -6,7 +6,9 @@ wealth, industry, age, gender and country, then visualized the results in
 Tableau Public.
 
 ## Tools
-MySQL (Workbench), Excel, Tableau Public
+MySQL (Workbench), Excel, Tableau Public.
+
+All dashboards are on my [Tableau Public profile](https://public.tableau.com/app/profile/brian.lugunga).
 
 Full queries: [Billionaire_Wealth_Analysis.sql](Billionaire_Wealth_Analysis.sql)
 
