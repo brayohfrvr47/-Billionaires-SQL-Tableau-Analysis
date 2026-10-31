@@ -7,6 +7,7 @@ Tableau Public.
 
 ## Tools
 MySQL (Workbench), Excel, Tableau Public
+
 Full queries: [Billionaire_Wealth_Analysis.sql](Billionaire_Wealth_Analysis.sql)
 
 ## Dataset
